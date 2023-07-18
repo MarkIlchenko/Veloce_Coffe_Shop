@@ -196,11 +196,11 @@ input[type="checkbox"] {
     margin-left: 16px;
     cursor: pointer;
 }
-/*.Stamp {*/
-/*    position: absolute;*/
-/*    right: 40px;*/
-/*    bottom: 16px;*/
-/*}*/
-/*.img-container {*/
-/*    position: relative;*/
-/*}*/
+.Stamp {
+    position: absolute;
+    right: 40px;
+    bottom: 16px;
+}
+.img-container {
+    position: relative;
+}
